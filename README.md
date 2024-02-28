@@ -1,11 +1,13 @@
 # Civilingenjör i Information och Media Teknik
 
 #### Datorvana: Java, C/C++, Haskell, Python, Javascript och Assembly.
-Bra kunskap i HTML, CSS.
+#### Bra kunskap i HTML, CSS.
 
 ## Utbildning
 - Civilingenjör i Information och Media Teknik, Kungliga Tekniska Högskolan i Kista (_2022 - Nuvarande_)
+  
 - Civilingenjör i Datateknik, Chalmers Tekniska Högskolan i Göteborg (_2020 - 2022_)
+  
 - Studentexamen från gymnasiets Teknikprogram linje (_2017 - 2020_)
 
 ## Arbetslivserfarenhet

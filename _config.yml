@@ -12,9 +12,12 @@ author:
   email:   loieayoubi@gmail.com
 
 
-# Custom vars
-version:             2.0.1
-github:
-  repo:              https://louai20.github.io/ 
-linkedin_username::  Mohammed Louai Alayoubi
+# Social
+social:
+  -  name: LinkedIn
+     icon: linkedin
+     username: Mohammed Louai Alayoubi
+     url: https://www.linkedin.com/in/mohammed-louai-alayoubi-67773220a/
+     desc: Connect with me on LinkedIn
+     share: true
   

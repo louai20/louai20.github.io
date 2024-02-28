@@ -1,5 +1,23 @@
+# Setup
 title: Mohammed Louai Alayoubi
 #logo: 
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+paginate: 1
+
+# About
+author:
+  name:    Mohammed Louai Alayoubi
+  url:     https://louai20.github.io/ 
+  email:   loieayoubi@gmail.com
+
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://louai20.github.io/ 
+google_analytics:    UA-3363703-15
+linkedin:           https://www.linkedin.com/in/mohammed-louai-alayoubi-67773220a/  
+github:              
+dribbble:            

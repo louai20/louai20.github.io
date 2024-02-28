@@ -1,6 +1,7 @@
 # Civilingenjör i Information och Media Teknik
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Datorvana: Java, C/C++, Haskell, Python, Javascript och Assembly.
+Bra kunskap i HTML, CSS.
 
 ## Utbildning
 - Civilingenjör i Information och Media Teknik, Kungliga Tekniska Högskolan i Kista (_2022 - Nuvarande_)

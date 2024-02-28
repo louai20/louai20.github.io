@@ -4,7 +4,6 @@ title: Mohammed Louai Alayoubi
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-paginate: 1
 
 # About
 author:
@@ -17,5 +16,5 @@ author:
 version:             2.0.1
 github:
   repo:              https://louai20.github.io/ 
-linkedin:            https://www.linkedin.com/in/mohammed-louai-alayoubi-67773220a/  
+linkedin_username::  Mohammed Louai Alayoubi
   

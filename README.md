@@ -47,7 +47,7 @@
 ### 2.  Python Django Login/Logout Websida
 [Github Sida](https://github.com/louai20/Python-Django-Login-Logout-Website)
 
-En inloggning/utloggning sida i Python Django.
+En inloggning/utloggning sida utvecklas med Python Django.
 
 ### 3. Larmsystem bestående av en centralenhet och flera periferienheter.
 [Github Sida](https://gitfront.io/r/loieayoubi/9LYez4146WNx/DAT290/)

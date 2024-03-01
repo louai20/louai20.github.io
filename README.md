@@ -32,10 +32,12 @@
 #### Task 1
 - konceptuell modell för Soundgood musikskolas databas. Den konceptuella modellen ska
   täcka hela beskrivningen av Soundgood musikskola företaget.
+
 #### Task 2
 - Översätt den konceptuella modellen från task 1 till logiska och fysiska modeller,
   det vill säga en logisk modell med tillräckligt fysiska aspekter för
   att möjliggöra skapandet av en databas.
+
 #### Task 3
 - OLAP, Online Analytical Processing, queries and views. Queries användas för att
   analysera verksamheten och skapa rapporter.

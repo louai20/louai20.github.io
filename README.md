@@ -12,7 +12,7 @@
 
 ## Arbetslivserfarenhet
 
-**labbassistent @ KTH för Digital Design Kur- Stockholm Kista (_2024 - Nurvarande_)**
+**labbassistent @ KTH, Digital Design - Stockholm Kista (_2024 - Nurvarande_)**
 - Som labbassistent hjälper jag studenter med att bygga, analysera och felsöka deras kretsar.
   Jag stödjer studenterna genom hela labbarbetet och granskar deras resultat när de är klara,
   för att säkerställa att de uppnår de lärandemål som krävs.
